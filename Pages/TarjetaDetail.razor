@@ -1,0 +1,130 @@
+﻿@page "/tarjetadetail"
+<h3>TarjetaDetail</h3>
+@using VLModel
+
+<EditForm Model="@tarjeta">
+    <div>
+        <label for="titulo">Título:</label>
+        <input type="text" @bind="tarjeta.Titulo" id="titulo" name="Titulo" />
+    </div>
+    <div>
+        <label for="cuerpo">Cuerpo:</label>
+        <textarea id="cuerpo" @bind="tarjeta.Cuerpo" name=" Cuerpo"></textarea>
+    </div>
+    <div>
+        <label for="enlace">Enlace:</label>
+        <input type="text" @bind="tarjeta.Enlace" id=" enlace" name="Enlace" />
+    </div>
+    <div>
+        <label for="dificultad">Dificultad:</label>
+        <select id="dificultad" name="Dificultad" @bind="tarjeta.Dificultad">
+            <option value="Baja">Baja</option>
+            <option value="Media">Media</option>
+            <option value="Alta">Alta</option>
+        </select>
+    </div>
+    <div>
+        <label for="fecha">Fecha Publicación:</label>
+        <input type="date" @bind="tarjeta.Fecha" id=" fecha" name="Fecha" />
+    </div>
+    <div>
+        <label for="palabras">Cantidad de Palabras:</label>
+        <input type="text" @bind="tarjeta.Palabras" id=" palabras" name="Palabras" />
+    </div>
+    <div>
+        <label for="genero">Género:</label>
+        <select id="genero" name="Genero" @bind="tarjeta.Genero">
+            <option value="Ciencia Ficción">Ciencia Ficción</option>
+            <option value="Fantasía">Fantasía</option>
+            <option value="Misterio">Misterio</option>
+            
+        </select>
+    </div>
+    <div>
+        <label for="pregunta1">Pregunta 1:</label>
+        <input type="text" @bind="tarjeta.Pregunta1" id="pregunta1" name="Pregunta1" />
+    </div>
+    <div>
+        <label>Opciones:</label>
+        <div>
+            <label for="op1p1">1.</label>
+            <input type="text" @bind="tarjeta.Op1P1" id="op1p1" name="Op1P1" />
+            <label for="op2p1">2.</label>
+            <input type="text" @bind="tarjeta.Op2P1" id="op2p1" name="Op1P1" />
+            <label for="op3p1">3.</label>
+            <input type="text" @bind="tarjeta.Op3P1" id="op3p1" name="Op1P1" />
+            <label for="op4p1">4.</label>
+            <input type="text" @bind="tarjeta.Op4P1" id="op4p1" name="Op1P1" />
+            <label for="op5p1">5.</label>
+            <input type="text" @bind="tarjeta.Op5P1" id="op5p1" name="Op1P1" />
+        </div>
+    </div>
+    <div>
+        <label for="pregunta2">Pregunta 2:</label>
+        <input type="text" @bind="tarjeta.Pregunta2" id="pregunta2" name="Pregunta2" />
+    </div>
+    <div>
+        <label>Opciones:</label>
+        <div>
+            <label for="op1p2">1.</label>
+            <input type="text" @bind="tarjeta.Op1P2" id="op1p2" name="Op1P2" />
+            <label for="op2p2">2.</label>
+            <input type="text" @bind="tarjeta.Op2P2" id="op2p2" name="Op1P2" />
+            <label for="op3p2">3.</label>
+            <input type="text" @bind="tarjeta.Op3P2" id="op3p2" name="Op1P2" />
+            <label for="op4p2">4.</label>
+            <input type="text" @bind="tarjeta.Op4P2" id="op4p2" name="Op1P2" />
+            <label for="op5p2">5.</label>
+            <input type="text" @bind="tarjeta.Op5P2" id="op5p2" name="Op1P2" />
+        </div>
+    </div>
+    <div>
+        <label for="pregunta3">Pregunta 3:</label>
+        <input type="text" @bind="tarjeta.Pregunta3" id="pregunta3" name="Pregunta3" />
+    </div>
+    <div>
+        <label>Opciones:</label>
+        <div>
+            <label for="op1p3">1.</label>
+            <input type="text" @bind="tarjeta.Op1P3" id="op1p1" name="Op1P3" />
+            <label for="op2p3">2.</label>
+            <input type="text" @bind="tarjeta.Op2P3" id="op2p1" name="Op1P3" />
+            <label for="op3p3">3.</label>
+            <input type="text" @bind="tarjeta.Op3P3" id="op3p3" name="Op1P3" />
+            <label for="op4p3">4.</label>
+            <input type="text" @bind="tarjeta.Op4P3" id="op4p3" name="Op1P3" />
+            <label for="op5p3">5.</label>
+            <input type="text" @bind="tarjeta.Op5P3" id="op5p3" name="Op1P3" />
+        </div>
+    </div>
+    <div>
+        <label for="respuesta1">Respuesta 1:</label>
+        <input type="text" @bind="tarjeta.Resp1" id="respuesta1" name="Respuesta1" />
+    </div>
+    <div>
+        <label for="respuesta2">Respuesta 2:</label>
+        <input type="text" @bind="tarjeta.Resp2" id="respuesta2" name="Respuesta2" />
+    </div>
+    <div>
+        <label for="respuesta3">Respuesta 3:</label>
+        <input type="text" @bind="tarjeta.Resp3" id="respuesta3" name="Respuesta3" />
+    </div>
+    
+    <button type="submit" @onclick="SaveTarjeta" >Guardar</button>
+    <button type="submit" @onclick="Cancelar">Cancelar</button>
+    
+</EditForm>
+
+@code {
+    Tarjeta tarjeta = new Tarjeta();
+
+    protected async Task SaveTarjeta()
+    {
+
+    }
+
+    protected void Cancelar()
+    {
+        
+    }
+}

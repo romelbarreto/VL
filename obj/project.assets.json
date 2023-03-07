@@ -2301,6 +2301,29 @@
         "build": {
           "buildTransitive/net6.0-android31.0/Xamarin.KotlinX.Coroutines.Core.Jvm.targets": {}
         }
+      },
+      "VLData/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "VLModel": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/VLData.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VLData.dll": {}
+        }
+      },
+      "VLModel/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/VLModel.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VLModel.dll": {}
+        }
       }
     },
     "net6.0-android31.0/android-arm": {
@@ -4596,6 +4619,29 @@
         },
         "build": {
           "buildTransitive/net6.0-android31.0/Xamarin.KotlinX.Coroutines.Core.Jvm.targets": {}
+        }
+      },
+      "VLData/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "VLModel": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/VLData.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VLData.dll": {}
+        }
+      },
+      "VLModel/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/VLModel.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VLModel.dll": {}
         }
       }
     },
@@ -6893,6 +6939,29 @@
         "build": {
           "buildTransitive/net6.0-android31.0/Xamarin.KotlinX.Coroutines.Core.Jvm.targets": {}
         }
+      },
+      "VLData/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "VLModel": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/VLData.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VLData.dll": {}
+        }
+      },
+      "VLModel/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/VLModel.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VLModel.dll": {}
+        }
       }
     },
     "net6.0-android31.0/android-x64": {
@@ -9188,6 +9257,29 @@
         },
         "build": {
           "buildTransitive/net6.0-android31.0/Xamarin.KotlinX.Coroutines.Core.Jvm.targets": {}
+        }
+      },
+      "VLData/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "VLModel": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/VLData.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VLData.dll": {}
+        }
+      },
+      "VLModel/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/VLModel.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VLModel.dll": {}
         }
       }
     },
@@ -11485,6 +11577,29 @@
         "build": {
           "buildTransitive/net6.0-android31.0/Xamarin.KotlinX.Coroutines.Core.Jvm.targets": {}
         }
+      },
+      "VLData/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "VLModel": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/VLData.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VLData.dll": {}
+        }
+      },
+      "VLModel/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/VLModel.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VLModel.dll": {}
+        }
       }
     },
     "net6.0-android31.0/iossimulator-x64": {
@@ -13780,6 +13895,29 @@
         },
         "build": {
           "buildTransitive/net6.0-android31.0/Xamarin.KotlinX.Coroutines.Core.Jvm.targets": {}
+        }
+      },
+      "VLData/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "VLModel": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/VLData.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VLData.dll": {}
+        }
+      },
+      "VLModel/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/VLModel.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VLModel.dll": {}
         }
       }
     },
@@ -16077,6 +16215,29 @@
         "build": {
           "buildTransitive/net6.0-android31.0/Xamarin.KotlinX.Coroutines.Core.Jvm.targets": {}
         }
+      },
+      "VLData/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "VLModel": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/VLData.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VLData.dll": {}
+        }
+      },
+      "VLModel/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/VLModel.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VLModel.dll": {}
+        }
       }
     },
     "net6.0-android31.0/win10-x64": {
@@ -18373,6 +18534,29 @@
         "build": {
           "buildTransitive/net6.0-android31.0/Xamarin.KotlinX.Coroutines.Core.Jvm.targets": {}
         }
+      },
+      "VLData/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "VLModel": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/VLData.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VLData.dll": {}
+        }
+      },
+      "VLModel/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/VLModel.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VLModel.dll": {}
+        }
       }
     },
     "net6.0-ios16.1": {
@@ -18948,6 +19132,29 @@
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
         }
+      },
+      "VLData/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "VLModel": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/VLData.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VLData.dll": {}
+        }
+      },
+      "VLModel/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/VLModel.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VLModel.dll": {}
+        }
       }
     },
     "net6.0-ios16.1/android-arm": {
@@ -19516,6 +19723,29 @@
         },
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
+        }
+      },
+      "VLData/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "VLModel": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/VLData.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VLData.dll": {}
+        }
+      },
+      "VLModel/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/VLModel.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VLModel.dll": {}
         }
       }
     },
@@ -20086,6 +20316,29 @@
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
         }
+      },
+      "VLData/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "VLModel": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/VLData.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VLData.dll": {}
+        }
+      },
+      "VLModel/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/VLModel.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VLModel.dll": {}
+        }
       }
     },
     "net6.0-ios16.1/android-x64": {
@@ -20654,6 +20907,29 @@
         },
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
+        }
+      },
+      "VLData/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "VLModel": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/VLData.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VLData.dll": {}
+        }
+      },
+      "VLModel/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/VLModel.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VLModel.dll": {}
         }
       }
     },
@@ -21224,6 +21500,29 @@
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
         }
+      },
+      "VLData/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "VLModel": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/VLData.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VLData.dll": {}
+        }
+      },
+      "VLModel/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/VLModel.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VLModel.dll": {}
+        }
       }
     },
     "net6.0-ios16.1/iossimulator-x64": {
@@ -21792,6 +22091,29 @@
         },
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
+        }
+      },
+      "VLData/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "VLModel": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/VLData.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VLData.dll": {}
+        }
+      },
+      "VLModel/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/VLModel.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VLModel.dll": {}
         }
       }
     },
@@ -22362,6 +22684,29 @@
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
         }
+      },
+      "VLData/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "VLModel": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/VLData.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VLData.dll": {}
+        }
+      },
+      "VLModel/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/VLModel.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VLModel.dll": {}
+        }
       }
     },
     "net6.0-ios16.1/win10-x64": {
@@ -22930,6 +23275,29 @@
         },
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
+        }
+      },
+      "VLData/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "VLModel": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/VLData.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VLData.dll": {}
+        }
+      },
+      "VLModel/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/VLModel.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VLModel.dll": {}
         }
       }
     },
@@ -23506,6 +23874,29 @@
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
         }
+      },
+      "VLData/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "VLModel": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/VLData.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VLData.dll": {}
+        }
+      },
+      "VLModel/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/VLModel.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VLModel.dll": {}
+        }
       }
     },
     "net6.0-maccatalyst16.1/android-arm": {
@@ -24074,6 +24465,29 @@
         },
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
+        }
+      },
+      "VLData/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "VLModel": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/VLData.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VLData.dll": {}
+        }
+      },
+      "VLModel/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/VLModel.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VLModel.dll": {}
         }
       }
     },
@@ -24644,6 +25058,29 @@
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
         }
+      },
+      "VLData/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "VLModel": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/VLData.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VLData.dll": {}
+        }
+      },
+      "VLModel/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/VLModel.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VLModel.dll": {}
+        }
       }
     },
     "net6.0-maccatalyst16.1/android-x64": {
@@ -25212,6 +25649,29 @@
         },
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
+        }
+      },
+      "VLData/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "VLModel": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/VLData.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VLData.dll": {}
+        }
+      },
+      "VLModel/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/VLModel.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VLModel.dll": {}
         }
       }
     },
@@ -25782,6 +26242,29 @@
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
         }
+      },
+      "VLData/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "VLModel": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/VLData.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VLData.dll": {}
+        }
+      },
+      "VLModel/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/VLModel.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VLModel.dll": {}
+        }
       }
     },
     "net6.0-maccatalyst16.1/iossimulator-x64": {
@@ -26350,6 +26833,29 @@
         },
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
+        }
+      },
+      "VLData/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "VLModel": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/VLData.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VLData.dll": {}
+        }
+      },
+      "VLModel/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/VLModel.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VLModel.dll": {}
         }
       }
     },
@@ -26920,6 +27426,29 @@
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
         }
+      },
+      "VLData/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "VLModel": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/VLData.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VLData.dll": {}
+        }
+      },
+      "VLModel/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/VLModel.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VLModel.dll": {}
+        }
       }
     },
     "net6.0-maccatalyst16.1/win10-x64": {
@@ -27488,6 +28017,29 @@
         },
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
+        }
+      },
+      "VLData/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "VLModel": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/VLData.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VLData.dll": {}
+        }
+      },
+      "VLModel/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/VLModel.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VLModel.dll": {}
         }
       }
     },
@@ -28188,6 +28740,29 @@
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
         }
+      },
+      "VLData/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "VLModel": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/VLData.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VLData.dll": {}
+        }
+      },
+      "VLModel/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/VLModel.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VLModel.dll": {}
+        }
       }
     },
     "net6.0-windows10.0.19041/android-arm": {
@@ -28852,6 +29427,29 @@
         },
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
+        }
+      },
+      "VLData/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "VLModel": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/VLData.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VLData.dll": {}
+        }
+      },
+      "VLModel/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/VLModel.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VLModel.dll": {}
         }
       }
     },
@@ -29518,6 +30116,29 @@
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
         }
+      },
+      "VLData/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "VLModel": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/VLData.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VLData.dll": {}
+        }
+      },
+      "VLModel/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/VLModel.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VLModel.dll": {}
+        }
       }
     },
     "net6.0-windows10.0.19041/android-x64": {
@@ -30182,6 +30803,29 @@
         },
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
+        }
+      },
+      "VLData/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "VLModel": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/VLData.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VLData.dll": {}
+        }
+      },
+      "VLModel/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/VLModel.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VLModel.dll": {}
         }
       }
     },
@@ -30848,6 +31492,29 @@
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
         }
+      },
+      "VLData/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "VLModel": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/VLData.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VLData.dll": {}
+        }
+      },
+      "VLModel/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/VLModel.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VLModel.dll": {}
+        }
       }
     },
     "net6.0-windows10.0.19041/iossimulator-x64": {
@@ -31513,6 +32180,29 @@
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
         }
+      },
+      "VLData/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "VLModel": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/VLData.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VLData.dll": {}
+        }
+      },
+      "VLModel/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/VLModel.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VLModel.dll": {}
+        }
       }
     },
     "net6.0-windows10.0.19041/maccatalyst-x64": {
@@ -32177,6 +32867,29 @@
         },
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
+        }
+      },
+      "VLData/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "VLModel": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/VLData.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VLData.dll": {}
+        }
+      },
+      "VLModel/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/VLModel.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VLModel.dll": {}
         }
       }
     },
@@ -32848,6 +33561,29 @@
         },
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
+        }
+      },
+      "VLData/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "VLModel": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/VLData.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VLData.dll": {}
+        }
+      },
+      "VLModel/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/VLModel.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VLModel.dll": {}
         }
       }
     }
@@ -36289,31 +37025,49 @@
         "xamarin.kotlinx.coroutines.core.jvm.1.6.0.1.nupkg.sha512",
         "xamarin.kotlinx.coroutines.core.jvm.nuspec"
       ]
+    },
+    "VLData/1.0.0": {
+      "type": "project",
+      "path": "../VLData/VLData.csproj",
+      "msbuildProject": "../VLData/VLData.csproj"
+    },
+    "VLModel/1.0.0": {
+      "type": "project",
+      "path": "../VLModel/VLModel.csproj",
+      "msbuildProject": "../VLModel/VLModel.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0-android31.0": [
       "Microsoft.AspNetCore.Components.WebView.Maui >= 6.0.552",
       "Microsoft.Maui.Dependencies >= 6.0.552",
-      "Microsoft.Maui.Extensions >= 6.0.552"
+      "Microsoft.Maui.Extensions >= 6.0.552",
+      "VLData >= 1.0.0",
+      "VLModel >= 1.0.0"
     ],
     "net6.0-ios16.1": [
       "Microsoft.AspNetCore.Components.WebView.Maui >= 6.0.552",
       "Microsoft.Maui.Dependencies >= 6.0.552",
       "Microsoft.Maui.Extensions >= 6.0.552",
-      "System.Runtime.InteropServices.NFloat.Internal >= 6.0.1"
+      "System.Runtime.InteropServices.NFloat.Internal >= 6.0.1",
+      "VLData >= 1.0.0",
+      "VLModel >= 1.0.0"
     ],
     "net6.0-maccatalyst16.1": [
       "Microsoft.AspNetCore.Components.WebView.Maui >= 6.0.552",
       "Microsoft.Maui.Dependencies >= 6.0.552",
       "Microsoft.Maui.Extensions >= 6.0.552",
-      "System.Runtime.InteropServices.NFloat.Internal >= 6.0.1"
+      "System.Runtime.InteropServices.NFloat.Internal >= 6.0.1",
+      "VLData >= 1.0.0",
+      "VLModel >= 1.0.0"
     ],
     "net6.0-windows10.0.19041": [
       "Microsoft.AspNetCore.Components.WebView.Maui >= 6.0.552",
       "Microsoft.Maui.Dependencies >= 6.0.552",
       "Microsoft.Maui.Extensions >= 6.0.552",
-      "Microsoft.Windows.SDK.BuildTools >= 10.0.22000.194"
+      "Microsoft.Windows.SDK.BuildTools >= 10.0.22000.194",
+      "VLData >= 1.0.0",
+      "VLModel >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -36355,19 +37109,47 @@
       "frameworks": {
         "net6.0-android31.0": {
           "targetAlias": "net6.0-android",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\servi\\OneDrive\\Documentos\\GitHub\\VLData\\VLData.csproj": {
+              "projectPath": "C:\\Users\\servi\\OneDrive\\Documentos\\GitHub\\VLData\\VLData.csproj"
+            },
+            "C:\\Users\\servi\\OneDrive\\Documentos\\GitHub\\VLModel\\VLModel.csproj": {
+              "projectPath": "C:\\Users\\servi\\OneDrive\\Documentos\\GitHub\\VLModel\\VLModel.csproj"
+            }
+          }
         },
         "net6.0-ios16.1": {
           "targetAlias": "net6.0-ios",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\servi\\OneDrive\\Documentos\\GitHub\\VLData\\VLData.csproj": {
+              "projectPath": "C:\\Users\\servi\\OneDrive\\Documentos\\GitHub\\VLData\\VLData.csproj"
+            },
+            "C:\\Users\\servi\\OneDrive\\Documentos\\GitHub\\VLModel\\VLModel.csproj": {
+              "projectPath": "C:\\Users\\servi\\OneDrive\\Documentos\\GitHub\\VLModel\\VLModel.csproj"
+            }
+          }
         },
         "net6.0-maccatalyst16.1": {
           "targetAlias": "net6.0-maccatalyst",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\servi\\OneDrive\\Documentos\\GitHub\\VLData\\VLData.csproj": {
+              "projectPath": "C:\\Users\\servi\\OneDrive\\Documentos\\GitHub\\VLData\\VLData.csproj"
+            },
+            "C:\\Users\\servi\\OneDrive\\Documentos\\GitHub\\VLModel\\VLModel.csproj": {
+              "projectPath": "C:\\Users\\servi\\OneDrive\\Documentos\\GitHub\\VLModel\\VLModel.csproj"
+            }
+          }
         },
         "net6.0-windows10.0.19041": {
           "targetAlias": "net6.0-windows10.0.19041.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\servi\\OneDrive\\Documentos\\GitHub\\VLData\\VLData.csproj": {
+              "projectPath": "C:\\Users\\servi\\OneDrive\\Documentos\\GitHub\\VLData\\VLData.csproj"
+            },
+            "C:\\Users\\servi\\OneDrive\\Documentos\\GitHub\\VLModel\\VLModel.csproj": {
+              "projectPath": "C:\\Users\\servi\\OneDrive\\Documentos\\GitHub\\VLModel\\VLModel.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
