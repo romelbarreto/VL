@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "zYwufy4dp070IwjaXADUjl2dSZtuW9GmGeBfVOkdlt8JyQQfGMtTtTzVZocjygE/U1semu2lKABF2jNLNtBasA==",
+  "dgSpecHash": "mFJWEfmHw2a+TAFXeY5E+x/jB94bTIC0r+ufEl3E0VI1HeIInRdx6Lxl3RjkSk3dkPRAuHsyKXDaLb3CQQpWAg==",
   "success": true,
   "projectFilePath": "C:\\Users\\servi\\OneDrive\\Documentos\\GitHub\\VL\\VL.csproj",
   "expectedPackageFiles": [
@@ -37,6 +37,7 @@
     "C:\\Users\\servi\\.nuget\\packages\\microsoft.maui.graphics.win2d.winui.desktop\\6.0.501\\microsoft.maui.graphics.win2d.winui.desktop.6.0.501.nupkg.sha512",
     "C:\\Users\\servi\\.nuget\\packages\\microsoft.windows.sdk.buildtools\\10.0.22000.194\\microsoft.windows.sdk.buildtools.10.0.22000.194.nupkg.sha512",
     "C:\\Users\\servi\\.nuget\\packages\\microsoft.windowsappsdk\\1.1.5\\microsoft.windowsappsdk.1.1.5.nupkg.sha512",
+    "C:\\Users\\servi\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\servi\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
     "C:\\Users\\servi\\.nuget\\packages\\system.io.pipelines\\6.0.3\\system.io.pipelines.6.0.3.nupkg.sha512",
     "C:\\Users\\servi\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",

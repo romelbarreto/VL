@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Components.WebView.Maui;
 using VL.Data;
+using VLData.Repositories;
 
 namespace VL;
 
@@ -20,7 +21,7 @@ public static class MauiProgram
 		builder.Services.AddBlazorWebViewDeveloperTools();
 #endif
 		
-		builder.Services.AddSingleton<WeatherForecastService>();
+		builder.Services.AddSingleton<ITarjetaRepository,TarjetaRepository>();
 
 		return builder.Build();
 	}
